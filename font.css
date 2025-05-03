@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'YujiMai-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/YujiMai-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'YujiEmoji';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/YujiEmoji.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'score';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/score.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'omu';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/omu.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'maru';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/maru.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'dokrip';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/dokrip.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'chungju';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/chungju.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'chosen';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/chosen.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'bm';
+  src: url('https://cdn.jsdelivr.net/gh/coolpi/font_cdn/fonts/bm.woff') format('woff');
+  font-display: swap;
+}
